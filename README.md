@@ -58,8 +58,8 @@ Insights & Reporting – Extract business insights
 
 Clone this repository:
 
-git clone https://github.com/yourusername/VendSight360.git
-cd VendSight360
+git clone https://github.com/Vigneshx07/Vendor-Performance-Intelligence-VPI-Platform.git
+cd Vendor-Performance-Intelligence-VPI-Platform
 
 
 Install dependencies:
