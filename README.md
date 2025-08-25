@@ -93,6 +93,10 @@ Open Power BI file (VendorPerformance.pbix) to explore dashboards.
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a PR.
 
+⚠️ Note: The original dataset is >2GB and cannot be uploaded to GitHub due to file size limits.  
+A sample dataset is included in this repo for demonstration.  
+Full dataset can be accessed via [Google Drive]("C:\Users\vigne\Desktop\Inventory_Project").  
+
 📧 Contact
 
 👤 Vignesh
